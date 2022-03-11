@@ -8,3 +8,10 @@ Initial tests to include:
 * GAN
 * cGAN
 * Normalizing flows
+
+# Where to run
+## LMU machines
+[CIP GPU server](https://workshop.physik.uni-muenchen.de/hub/spawn) (login needed with token) 
+ you can reserve Nvidia A40 gpus for model training
+
+[CIP CPU server](https://jupyter.physik.uni-muenchen.de/hub/spawn) (login needed with token)
