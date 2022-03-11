@@ -13,6 +13,8 @@ Initial tests to include:
 ## LMU machines
 [CIP GPU server](https://workshop.physik.uni-muenchen.de/hub/spawn) (login needed with token) 
  you can reserve Nvidia A40 gpus for model training
+ 
+ Alternatively at cip-sv-login0[1234].cip.physik.uni-muenchen.de
 
 [CIP CPU server](https://jupyter.physik.uni-muenchen.de/hub/spawn) (login needed with token)
 
