@@ -15,3 +15,10 @@ Initial tests to include:
  you can reserve Nvidia A40 gpus for model training
 
 [CIP CPU server](https://jupyter.physik.uni-muenchen.de/hub/spawn) (login needed with token)
+
+## before running 
+
+* run sh pip.sh
+* 
+
+
