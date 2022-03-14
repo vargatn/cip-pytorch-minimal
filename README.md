@@ -16,10 +16,10 @@ Initial tests to include:
  
  Alternatively at cip-sv-login0[1234].cip.physik.uni-muenchen.de
 
-[CIP CPU server](https://jupyter.physik.uni-muenchen.de/hub/spawn) (login needed with token)
+There's also a cpu only server, that however does not provide full torch support [CIP CPU server](https://jupyter.physik.uni-muenchen.de/hub/spawn) (login needed with token)
 
 ## before running 
-
+Be sure to reserve a GPU first, torch install works only when cuda gpu is available
 * run sh pip.sh
 * 
 
