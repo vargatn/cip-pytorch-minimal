@@ -18,6 +18,10 @@ Initial tests to include:
 
 There's also a cpu only server, that however does not provide full torch support [CIP CPU server](https://jupyter.physik.uni-muenchen.de/hub/spawn) (login needed with token)
 
+## acccess to LMU CIP
+
+You'll need to enroll a loging token at https://otp.physik.uni-muenchen.de in addition to the physik account
+
 ## before running 
 Be sure to reserve a GPU first, torch install works only when cuda gpu is available
 * run sh pip.sh
