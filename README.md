@@ -25,6 +25,6 @@ You'll need to enroll a loging token at https://otp.physik.uni-muenchen.de in ad
 ## before running 
 Be sure to reserve a GPU first, torch install works only when cuda gpu is available
 * run sh pip.sh
-* 
+This should perform multiple downloads, not, then something is not going right 
 
 
