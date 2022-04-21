@@ -27,4 +27,6 @@ Be sure to reserve a GPU first, torch install works only when cuda gpu is availa
 * run sh pip.sh
 This should perform multiple downloads, not, then something is not going right 
 
+Consider reading some of the [suggested reads](SUGGESTED_READS.md)
+
 
