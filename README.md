@@ -1,6 +1,9 @@
 # cip-pytorch-minimal
 A set of minimal tutorials for setting up and using Pytorch on the CIP computers at LMU
 
+**Consider reading some of the [suggested reads](SUGGESTED_READS.md)**
+
+
 The aim is to collect here worked out tutorials and use cases for methods we are actively looking to apply for cosmological data
 
 Initial tests to include:
@@ -27,6 +30,5 @@ Be sure to reserve a GPU first, torch install works only when cuda gpu is availa
 * run sh pip.sh
 This should perform multiple downloads, not, then something is not going right 
 
-Consider reading some of the [suggested reads](SUGGESTED_READS.md)
 
 
