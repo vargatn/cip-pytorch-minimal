@@ -2,6 +2,7 @@
 
 Elements of Statistical Learning book, great read https://hastie.su.domains/ElemStatLearn/
 
+Pytorch tutorial & getting started https://pytorch.org/tutorials/
 
 ## Natural Language processing
 
