@@ -18,7 +18,7 @@ Emotion labeling
   
   * Google Jukebox https://openai.com/blog/jukebox/ https://arxiv.org/abs/2005.00341
   
-  * Berkeley Blog https://ml.berkeley.edu/blog/posts/vq-vae/ https://ml.berkeley.edu/blog/
+  * Berkeley Blog https://ml.berkeley.edu/blog/posts/vq-vae/ and https://ml.berkeley.edu/blog/posts/dalle2/, in general https://ml.berkeley.edu/blog/
   
   https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
   
