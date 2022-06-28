@@ -4,6 +4,11 @@ Elements of Statistical Learning book, great read https://hastie.su.domains/Elem
 
 Pytorch tutorial & getting started https://pytorch.org/tutorials/
 
+# GANs with worked out implementation
+
+https://github.com/nashory/gans-awesome-applications#applications-using-gans
+especially interesting for style transfer and latent space interpolation
+
 ## Natural Language processing
 
 https://www.nltk.org/book/
